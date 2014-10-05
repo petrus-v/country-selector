@@ -4,7 +4,7 @@
   "authors": [
     "Pierre Verkest <pierreverkest84@gmail.com>"
   ],
-  "description": "Element providing solution to no problem in particular.",
+  "description": "Element to select a country.",
   "keywords": [
     "web-component",
     "web-components",
@@ -14,7 +14,7 @@
     "selector"
   ],
   "main": "country-selector.html",
-  "license": "MIT",
+  "license": "AGPL",
   "homepage": "https://github.com/petrus-v/country-selector/",
   "ignore": [
     "/.*",
