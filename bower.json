@@ -2,24 +2,27 @@
   "name": "country-selector",
   "version": "0.0.0",
   "authors": [
-    "Anonymous <anonymous@example.com>"
+    "Pierre Verkest <pierreverkest84@gmail.com>"
   ],
   "description": "Element providing solution to no problem in particular.",
   "keywords": [
     "web-component",
     "web-components",
     "polymer",
-    "seed"
+    "maps",
+    "country",
+    "selector"
   ],
   "main": "country-selector.html",
   "license": "MIT",
-  "homepage": "https://github.com/<USERNAME>/country-selector/",
+  "homepage": "https://github.com/petrus-v/country-selector/",
   "ignore": [
     "/.*",
     "/tests/"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#^0.4.1"
+    "polymer": "Polymer/polymer#^0.4.1",
+    "world-data": "petrus-v/world-data"
   },
   "devDependencies": {
     "web-component-tester": "Polymer/web-component-tester#^0.7.3"
